@@ -1,8 +1,8 @@
 ## Olá! Eu sou Leandro Gabriel 
  <div>
  <a href="https://github.com/legabriel306"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=legabriel306&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legabriel306&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=legabriel306&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legabriel306&layout=compact&langs_count=16&theme=dracula"/>
  </div>
 <div style="display: inline_block"><br>
  
