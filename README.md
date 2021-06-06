@@ -10,7 +10,7 @@
   <img align="center" alt="Le-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
-  ##
+  ## Tecnologias
  
 <div> 
   <a href="https://www.instagram.com/le_gabriel23/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
